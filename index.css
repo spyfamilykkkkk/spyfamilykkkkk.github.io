@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.elen{
+    color: white;
+    writing-mode:vertical-rl;
+    padding-top: 25px;
+    font-size: 120px;
+    background-color: #608080;
+    padding-right: 200px;
+    padding-bottom: 392px;
+    
+}
+
+
+h2{
+    font-size: 45px;
+}
+
+span{
+    color:red;
+    font-size: 30px;
+}
+
+.charabox{
+    background-color: #80A0A0;
+    display: flex;
+   
+}
+
+.image{
+    padding-left: 20px;
+    display:block ;
+    padding: 30px;
+    background-color: #A0C0C0;
+}
+
+.giantbox{
+    display: flex;
+}
+
+.word{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bolder;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image3{
+    position: absolute;
+    top: 20px;
+    left: 1430px;
+    padding:20px;
+    background-color: #a0c0c0;
+}
+
+.image3:hover {
+    background-color: orange;
+}
+
